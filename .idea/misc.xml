@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/drawable/round.xml" value="0.204" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/layout/activity_home.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/layout/activity_login.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/layout/activity_register.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/layout/activity_user_forget.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/layout/activity_user_profile.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/layout/app_bar_user_profile.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/layout/content_user_profile.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/layout/fragment_gallery.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/layout/fragment_home.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/layout/fragment_slideshow.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/layout/nav_header_user_profile.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.24583333333333332" />
+        <entry key="..\:/2022App/android_java/FoodApp/app/src/main/res/menu/user_profile.xml" value="0.24583333333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
